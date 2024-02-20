@@ -2,10 +2,7 @@
   <div class="item">
     <div class="details">
       <h1>Congratulations! You've completed the first step.</h1>
-      <h2>Please contact us on Skype for the next step.</h2>
-      <a href="https://join.skype.com/invite/lG1FaiYyqIXh"
-        >https://join.skype.com/invite/lG1FaiYyqIXh</a
-      >
+      <h2>Please send your update for the next step.</h2>
     </div>
   </div>
 </template>
